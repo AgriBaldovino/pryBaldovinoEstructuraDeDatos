@@ -1,0 +1,73 @@
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.exe.config
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.exe
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.pdb
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.AssemblyReference.cache
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmCola.resources
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmDatosProgramador.resources
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmEstructuraDeDatos.resources
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.Properties.Resources.resources
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.GenerateResource.cache
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.CoreCompileInputs.cache
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.exe
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.pdb
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.exe.config
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.exe
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.pdb
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.AssemblyReference.cache
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmCola.resources
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmDatosProgramador.resources
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmEstructuraDeDatos.resources
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.Properties.Resources.resources
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.GenerateResource.cache
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.CoreCompileInputs.cache
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.exe
+C:\Users\Agri\Desktop\INF tercer semestre\Estructura de datos\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.pdb
+C:\Users\Agri\Desktop\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmPila.resources
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.exe.config
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.exe
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.pdb
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmCola.resources
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmDatosProgramador.resources
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmEstructuraDeDatos.resources
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmPila.resources
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.Properties.Resources.resources
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.GenerateResource.cache
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.exe
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.pdb
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.exe.config
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.exe
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.pdb
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmCola.resources
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmDatosProgramador.resources
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmEstructuraDeDatos.resources
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmListaEnlazadaSimple.resources
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmPila.resources
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.Properties.Resources.resources
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.exe
+C:\Users\Alumno\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.pdb
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmListaDoblementeEnlazada.resources
+C:\Users\Alumnos\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmListaEnlazadaSimple.resources
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.exe.config
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.exe
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\bin\Debug\pryEstructuraDatosBaldovino.pdb
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.AssemblyReference.cache
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmCola.resources
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmDatosProgramador.resources
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmEstructuraDeDatos.resources
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmListaDoblementeEnlazada.resources
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmListaEnlazadaSimple.resources
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.frmPila.resources
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.Properties.Resources.resources
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.GenerateResource.cache
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.csproj.CoreCompileInputs.cache
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.exe
+C:\Users\Agri\Downloads\pryEstructuraDatosBaldovino\obj\Debug\pryEstructuraDatosBaldovino.pdb
